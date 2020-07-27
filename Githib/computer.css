@@ -1,0 +1,40 @@
+body,
+html{
+	font-style: 'Montserrat', sans-serif;
+	background: url(header.jpg) no-repeat center center fixed;
+	  -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+       background-size: cover;
+}
+h1{
+	font-style: "Engravers MT";
+	font-size: 5rem;
+    color: #FFD300;
+}
+hr{
+	border-width: 5px;
+	border-color: #A5C663;
+	max-width: 65px;
+	font-size: 5rem;
+}
+.buffer{
+	height: 11rem;
+}
+.btn{
+	text-transform: uppercase;
+	font-weight: 700px;
+	border-radius: 300px;
+}
+.btn-primary{
+	background-color: #FFD300;
+	border-color: #FFD300;
+}
+.btn-primary:hover{
+	background-color: #FFD300;
+	border-color: #FFD300;
+}
+.btn-xl{
+	padding: 1rem 2rem;
+}
+
